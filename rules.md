@@ -53,6 +53,8 @@ Fill out the following based on your investigation:
 - [ ] Clearly list each change (file/function/line/component)
 - [ ] Map each change directly to a gap identified in Step 2
 - [ ] Note any risks, assumptions, or open questions
+- [ ] Always prioritize code modularity and reuseability
+- [ ] Avoid monolithic code
 
 ### Apply your Edits
 - [ ] Accurcy and precision is very important when applying edits
